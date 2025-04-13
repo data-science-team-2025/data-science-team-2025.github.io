@@ -1,4 +1,4 @@
 ---
-title: My Data Science Journay
+title: My Data Science Journey
 ---
 
